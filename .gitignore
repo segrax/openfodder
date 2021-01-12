@@ -347,3 +347,9 @@ ASALocalRun/
 healthchecksdb
 
 # End of https://www.gitignore.io/api/visualstudio
+
+# Ignore any folder starting with build, use for cmake out of tree builds.
+/build*
+
+# Ignore neatbeans projects.
+nbproject/

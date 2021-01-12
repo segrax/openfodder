@@ -1,0 +1,1 @@
+const char* gitversion = "@OPENFODDER_COMMIT_SHA1_SHORT@";
